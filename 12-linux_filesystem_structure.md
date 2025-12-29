@@ -276,6 +276,3 @@ cd ..      # Go up one level
 
 ------------------------------------------------------------------------
 
-## 📂 Suggested File Name
-
-**`linux_filesystem_structure.md`**
